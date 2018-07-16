@@ -1,5 +1,5 @@
 # Concurrent-Programming-Assignment-2
-A programming assignment given in a graduate level Concurrent Programming course. We were tasked with implementing a class (ConcurrentSearcherList) with the following description:
+A programming assignment given in a graduate level Concurrent Programming course. We were tasked with implementing a class [ConcurrentSearcherList](../src/ConcurrentSearcherList.java) with the following description:
 
 Suppose that there are three kinds of operations on singly-linked list: search,
 insert and remove. Searching threads merely examine the list; hence they can execute
